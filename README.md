@@ -9,12 +9,12 @@
 1. First of all clone this Project
 2. Now go to the download directory
 3. Extract this File
-4. Now go to the project directory
-5. create virtualenv
-6. pip install -r requirements.txt on you cmd
-7. write "export FLASK_APP=Blog" on cmd (remove " symole from both side this command)
-8. Again write "export FLASK_DEBUG=1" on cmd (remove " symole from both side this command)
-9. Run this command on cmd "flask run" (remove " symole from both side this command)
+4. Now go to the project directory (Flask-auth-project)
+5. create virtualenv and activate
+6. pip install -r requirements.txt on your cmd
+7. write "export FLASK_APP=Blog" on cmd - (remove " symole from both side this command)
+8. Again write "export FLASK_DEBUG=1" on cmd - (remove " symole from both side this command)
+9. Run this project write on cmd "flask run" from Flask-auth-project folder - (remove " symole from both side this command)
 
 Note: For First Login Please follow the instruction samplefile.txt file.
 
