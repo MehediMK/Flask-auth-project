@@ -16,7 +16,7 @@
 8. Again write `export FLASK_DEBUG=1` on terminal
 9. To run this project write `flask run` on your terminal from Flask-auth-project directory.
 
-**_📝NOTE:_**: For First Login Please follow the instruction samplefile.txt file.
+**_📝NOTE:_** For First Login Please follow the instruction samplefile.txt file.
 
 <details> 
   <summary>@MehediMK 👋✍</summary> 
